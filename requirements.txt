@@ -1,0 +1,9 @@
+# hyperliquid-python-sdk
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+pandas
+openpyxl
+requests
